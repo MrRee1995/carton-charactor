@@ -8,7 +8,7 @@ public class CartonPage {
 
     @Id
     private long id;
-    private long pateId;
+    private long pageId;
     private String txtContent;
     private String imgUrl;
     private String voiceUrl;
